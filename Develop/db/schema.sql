@@ -25,3 +25,9 @@ CREATE TABLE ProductTag (
     FOREIGN KEY (product_id) REFERENCES Product(id),
     FOREIGN KEY (tag_id) REFERENCES Tag(id)
 );
+
+-- @block
+DROP TABLE IF EXISTS ProductTag;
+DROP TABLE IF EXISTS Product;
+DROP TABLE IF EXISTS Tag;
+DROP TABLE IF EXISTS Category;
