@@ -1,3 +1,5 @@
+// runs connections and imports .env information to log into SQL
+
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
