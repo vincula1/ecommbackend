@@ -34,3 +34,5 @@ node server.js
 - **POST, PUT, DELETE Routes**: ![POST, PUT, DELETE Routes](./Assets/13-orm-homework-demo-03.gif)
 
 ## Walkthrough Video
+
+https://watch.screencastify.com/v/ZvZenmPNEvh4VgCei2Zc
